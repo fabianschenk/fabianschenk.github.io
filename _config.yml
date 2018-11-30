@@ -22,15 +22,15 @@ google-tracking-id: ""
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: True
+force-https: False
 
 #############
 # HTML Head #
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
+author: "Fabian Schenk"
+title: "Fabian Schenk"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
@@ -39,7 +39,7 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/favicon.ico" #"/img/black-lab-glass.ico"
 
 background-img: "../img/intro-bg.jpg"
 
@@ -47,18 +47,18 @@ background-img: "../img/intro-bg.jpg"
 # Dynamic Text on the Header #
 ##############################
 
-dynamic-typing: True
+dynamic-typing: False
 shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
-lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+#lines: # You can add HTML Tags in the Text
+#  - text: "The lower you fall, the higher you'll fly."
+#  - text: "Where’s your will to be weird?"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/fabian_square_img.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -76,15 +76,15 @@ me-img: "/img/jetpacktocat.png"
 # To use gravatar profile pic uncomment the following line and replace 'email_hash'
 # with your gravatar profile email hash.
 # You can create the email hash by using an online tool like 'http://www.md5hashgenerator.com/'
-# just enter your email and it will generate the hash.
-
-# me-img: "https://www.gravatar.com/avatar/email_hash?s=500"
-
+# just enter your email and it will facebookgenerate the hash.
+#facebook
+# me-img: "https://www.gravatar.com/facebookavatar/email_hash?s=500"
+#facebook
+##############################facebook
+# Color the browser elements #facebook
 ##############################
-# Color the browser elements #
-##############################
-color-browser: "#000000"
-apple-status-bar-style: "black"
+color-browser: "#FFFFFF"
+apple-status-bar-style: "white"
 
 ################
 # Web app mode #
@@ -131,22 +131,30 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
-
+  - image: "/img/timeline/icg-logo.png"
+    date: "Nov 2014 - Today"
+    description: "<strong>Graz University of Technology</strong><br /><em>Institute of Computer Graphics and Vision</em> <br />PhD Student "
+  - image: "/img/timeline/daqri_logo.jpg"
+    date: "MAY - AUG 2018"
+    description: "<strong>DAQRI Vienna</strong><br /><em>Computer Vision PhD Intern</em>"
+  - image: "/img/timeline/ucm3_logo.png"
+    date: "2012 - 2013"
+    description: "Exchange student Universidad Carlos III de Madrid "
+  - image: "/img/timeline/tugraz-logo.png"
+    date: "2011 - 2014"
+    description: "<strong>Graz University of Technology</strong><br /><em>Master's Degree in Biomedical Engineering</em>"
+  - image: "/img/timeline/tugraz-logo.png"
+    date: "2008 - 2011"
+    description: "<strong>Graz University of Technology</strong><br /><em>Bachelor's Degree in Biomedical Engineering</em>"
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+#timeline-img: "/img/timeline/default.png"
 
 ###########
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "fabian.schenk1987@gmail.com"
 
 ################
 # Author Blurb #
@@ -156,22 +164,24 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+# author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+# author_blurb_image: "/img/author.png"
 
 ##################
 # Social Buttons #
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
+#  - title: "facebook"
+#    url: "https://facebook.com/"
+#  - title: "twitter"
+#    url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://github.com/fabianschenk/"
+#  - title: "bitcoin"
+#    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/fabian-schenk/"
   - title: "rss"
     url: "/feed.xml"
 
@@ -185,9 +195,9 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+#keybase-username: johnsmith
+#keybase-in-social: True
+#keybase-in-footer: True
 
 ################################################################################
 
@@ -199,6 +209,7 @@ pages_list:
   About: 'about'
   Blog: 'latest-post'
   Timeline: 'timeline'
+  Publications: 'papers'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
@@ -214,6 +225,11 @@ paginate_path: "blog/page:num/"
 sass:
   style: compressed
 
-gems:
+plugins:
   - jekyll-paginate
   - jemoji
+################################################################################
+
+collections:
+  papers:
+    output: true

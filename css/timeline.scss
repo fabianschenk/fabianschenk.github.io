@@ -13,9 +13,9 @@
     top: 0;
     bottom: 0;
     left: 40px;
-    width: 2px;
+    width: 5px;
     margin-left: -1.5px;
-    background-color: #f1f1f1;
+    background-color: #0b4192;
 }
 
 .timeline>li {
@@ -63,11 +63,12 @@
     width: 80px;
     height: 80px;
     margin-left: 0;
-    border: 7px solid #f1f1f1;
+    border: 3px solid #fff;// #0b4192;
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #f1f1f1;
+    background-color: #fff;
+    
 }
 
 .img-me {
