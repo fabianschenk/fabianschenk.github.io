@@ -1,5 +1,5 @@
 ---
-title:  "Automated Walkable Area Segmentation from Aerial Images for Evacuation Simulation"
+title:  "Automated Segmentation of the Walkable Area from Aerial Images for Evacuation Simulation"
 teaser: "/img/teaser/gistam_evacuation.png"
 authors: "Fabian Schenk, Matthias Rüther, Horst Bischof."
 conference: International Conference on Geographical Information Systems Theory, Applications and Management (GISTAM), 2016
