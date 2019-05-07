@@ -17,5 +17,5 @@ can also be applied for relocalisation. We evaluate RESLAM on wide variety of be
 scenes and camera motions and also present qualitative results. We show that this novel edge-based SLAM system performs
 comparable to state-of-the-art methods, while running in real-time on a CPU. RESLAM is available as open-source software.
 
-[Paper](/_files/schenk_uavg_2019.pdf)
+[Paper](/files/schenk_uavg_2019.pdf)
 [Code](https://github.com/fabianschenk/RESLAM)

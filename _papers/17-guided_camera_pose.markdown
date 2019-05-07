@@ -14,4 +14,4 @@ between views to compute metrically accurate camera poses from just a few precis
 our experiments, we achieve reasonable results in building facade reconstruction with only a fraction
 of features compared to standard structure from motion.
 
-[Paper](/_files/schenk_oagm_2016.pdf)
+[Paper](/files/schenk_oagm_2016.pdf)
