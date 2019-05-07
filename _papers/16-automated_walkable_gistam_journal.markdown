@@ -10,4 +10,4 @@ comments:
 In this paper, we propose a novel, efficient and fast method to extract the walkable area from high-resolution aerial images for the purpose of computer-aided evacuation simulation for major public events. Compared to previous work, where authors only extracted roads and streets or solely focused on indoor scenarios, we present an approach to fully segment the walkable area of large outdoor environments. We address this challenge by modeling human movements in the terrain with a sophisticated seeded region growing algorithm (SRG), which utilizes digital surface models, true-orthophotos and inclination maps computed from aerial images. Further, we propose a novel annotation and scoring scheme especially developed for assessing the quality of the extracted evacuation maps. Finally, we present an extensive quantitative and qualitative evaluation, where we show the feasibility of our approach by evaluating different combinations of SRG methods and parameter settings on several real-world scenarios.
 
 
-[Paper](/papers/hough-networks.pdf)
+[Paper](https://pdfs.semanticscholar.org/ce8c/e73d3ee18f8d9160378671561447b2aaf9a8.pdf)
