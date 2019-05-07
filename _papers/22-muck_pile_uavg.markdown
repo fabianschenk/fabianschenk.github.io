@@ -1,6 +1,6 @@
 ---
 title:  "Automatic Muck Pile Characterization from UAV Images"
-teaser: "/img/teaser/uavg_teaser_small_1.png"
+teaser: "/img/teaser/uavg_teaser_small_1.jpg"
 authors: "Fabian Schenk, Alexander Tscharf, Gerhard Mayer, Friedrich Fraundorfer"
 conference: UAV-G at ISPRS Geospatial Week
 year: 2019 (Oral)
