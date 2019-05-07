@@ -10,4 +10,4 @@ comments:
 Laryngeal high-speed videos are a state of the art method to investigate vocal fold vibration but the vast amount of data produced prevents it from being used in clinical applications. Segmentation of the glottal gap is important for excluding irrelevant data from video frames for subsequent analysis. We present a novel, fully automatic segmentation method involving rigid motion compensation, saliency detection and 3D geodesic active contours. By using the whole color information and establishing spatio-temporal volumes, our method deals with problems due to low contrast or multiple opening areas. Efficient computation is achieved by parallelized implementation using modern graphics adapters and NVidia CUDA. A comparison to a semi-automatic seeded region growing method shows that we achieve improved segmentation accuracy.
 
 
-[Paper](https://github.com/fabianschenk/fabianschenk.github.io/blob/master/files/schenk_miua_2014.pdf)
+[Paper](https://github.com/fabianschenk/fabianschenk.github.io/raw/master/files/schenk_miua_2014.pdf)
