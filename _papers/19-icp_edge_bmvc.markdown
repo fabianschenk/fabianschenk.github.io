@@ -19,6 +19,6 @@ best in terms of trajectory accuracy for most of the sequences indicating that t
 combination of edge and depth terms in the cost function is suitable for a multitude of
 scenes.
 
-[Paper](https://pure.tugraz.at/ws/portalfiles/portal/10383987/0661.pdf)
+[Paper](/_files/schenk_bmvc_2018.pdf)
 [Video](https://youtu.be/uj3rRyqSEnQ)
 [Code](https://github.com/fabianschenk/REVO)

@@ -15,6 +15,6 @@ larger convergence basin while the pose estimates are also very fast to compute.
 new key frame. We show the feasibility of our system on realworld datasets and extensively evaluate on standard benchmark sequences to demonstrate the performance in a wide variety of
 scenes and camera motions. Our framework runs in real-time on the CPU of a laptop computer and is available online.
 
-[Paper](https://github.com/fabianschenk/REVO)
+[Paper](/_files/schenk_iros_2017.pdf)
 [Video](https://youtu.be/PUTV9vsdpbA)
 [Code](https://github.com/fabianschenk/REVO)
